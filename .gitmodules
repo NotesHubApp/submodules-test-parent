@@ -1,3 +1,0 @@
-[submodule "test-submodule"]
-	path = test-submodule
-	url = https://github.com/NotesHubApp/submodules-test-child.git
